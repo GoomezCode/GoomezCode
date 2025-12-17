@@ -1,5 +1,5 @@
-<h3 align="center" style="text-align:center; font-size:30px;">Bem Vindo(a) ao meu Perfil</h3>
-<p align="center" style="text-align:center; height:35px;"><img src="https://skillicons.dev/icons?i=java,spring,mysql,js,html,css,vscode,eclipse,idea,arch,linux,windows"></p>
+<h3 align="center">Bem Vindo(a) ao meu Perfil</h3>
+<p align="center"><img src="https://skillicons.dev/icons?i=java,spring,mysql,js,html,css,vscode,eclipse,idea,arch,linux,windows"  width="500"></p>
 
 
 >### Sobre mim
