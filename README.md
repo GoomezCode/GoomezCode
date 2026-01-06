@@ -11,7 +11,7 @@ no momento estou cursando 3Ano do ensino médio, em 2027 pretendo fazer Analise 
 >
 >No momento estou desenvolvendo dois Projetos
 >
-<!-- >**[TechStudy]()** ----> E um **Software** para a organização da escola | turmas, funcionarios, alunos, modalidades, noticias e Etc.. -->
+<!-- **[TechStudy]()** ----> E um **Software** para a organização da escola | turmas, funcionarios, alunos, modalidades, noticias e Etc.. -->
 >**[TaskForce](https://github.com/GoomezCode/TaskForce)** ----> E um **Software** para a **Organização** e **Administração** de suas **Tarefas**.
 >
 >**[ByteStore](https://github.com/GoomezCode/ByteStore)** ----> É uma **web** voltada para vendas de produtos Tech nos temos Livros, Peças, roupas, jogos e etcc...
