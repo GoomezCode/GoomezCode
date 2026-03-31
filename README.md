@@ -4,8 +4,8 @@
 
 >### Sobre mim
 >
->Eu sou Daniel Gomes de Paula, sou um estudante de engenharia de software,
-no momento estou cursando 3Ano do ensino médio, em 2027 pretendo fazer Analise de desenvolvimento de sistemas(ADS) e Engenharia de Software.
+>Eu sou Daniel Gomes de Paula, sou um estudante de Tec. Análise é desenvolvimento de sistemas(ADS) no Senac Franca,
+no momento estou cursando 3Ano do ensino médio, em 2027 pretendo fazer Engenharia de Software.
 
 >### meus desenvolvimentos
 >
