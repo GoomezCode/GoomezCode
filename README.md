@@ -15,6 +15,8 @@ no momento estou cursando 3Ano do ensino médio, em 2027 pretendo fazer Engenhar
 >**[TaskForce](https://github.com/GoomezCode/TaskForce)** ----> E um **Software** para a **Organização** e **Administração** de suas **Tarefas**.
 >
 >**[ByteStore](https://github.com/GoomezCode/ByteStore)** ----> É uma **web** voltada para vendas de produtos Tech nos temos Livros, Peças, roupas, jogos e etcc...
+>
+>**[StockEasy](https://github.com/GoomezCode/StockEasy)** ----> Sistema de gestão para Pequenos Comercios
 
 >### Curiosidade sobre mim
 >
