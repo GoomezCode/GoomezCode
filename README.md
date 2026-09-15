@@ -1,4 +1,3 @@
-<p align="center"><img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="50" height="50"></p>
 <h3 align="center">Bem Vindo(a) ao meu Perfil 👋</h3>
 <p align="center"><img src="https://skillicons.dev/icons?i=java,spring,mysql,py,fastapi,js,html,css,vscode,eclipse,idea,arch,linux,windows" width="500"></p>
 
@@ -21,7 +20,6 @@ Quando não estou focado nos estudos de tecnologia, dedico minha energia ao espo
 | [**TaskForce Desktop**](https://github.com/GoomezCode/TaskForce_tkinter) | Python · tkinter | Versão desktop do gerenciador de tarefas |
 | [**OrbySOS API**](https://github.com/GoomezCode/OrbySos_api) | Python · FastAPI · MySQL | API REST para gestão de seguros veiculares, ocorrências e assistências |
 | [**StockEasy**](https://github.com/GoomezCode/StockEasy) | JavaScript | Sistema de gestão de estoque para pequenos comércios (projeto final Senac) |
-| [**project-senac-franca**](https://github.com/GoomezCode/project-senac-franca) | Python | Projetos desenvolvidos durante o curso de ADS |
 
 ---
 
@@ -38,5 +36,3 @@ Quando não estou focado nos estudos de tecnologia, dedico minha energia ao espo
 				<img src="https://skillicons.dev/icons?i=gmail"></a>
       </div>
 </p>
-
-<p align="center">Feito com 💙 por <a href="https://github.com/GoomezCode">Daniel Gomes de Paula</a></p>
