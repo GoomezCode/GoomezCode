@@ -58,10 +58,10 @@ Tenho interesse em:
 
 | Projeto | Stack | Descrição |
 |:---|:---|:---|
-| [**CosmosX_API**](https://github.com/GoomezCode/CosmosX_API) | Java · Spring Boot | API REST de simulação de uma agência espacial com endpoints funcionalmente estruturados. |
-| [**TaskForce API**](https://github.com/GoomezCode/TaskForce_api) | Python · FastAPI | API RESTful para gerenciamento de tarefas com foco em organização e produtividade. |
-| [**TaskForce Desktop**](https://github.com/GoomezCode/TaskForce_tkinter) | Python · Tkinter | Aplicação desktop para controle de tarefas com interface simples e prática. |
-| [**OrbySOS API**](https://github.com/GoomezCode/OrbySos_api) | Python · FastAPI · MySQL | API para gestão de seguros veiculares, ocorrências e assistências. |
+| [**CosmosX_API**](https://github.com/GoomezCode/CosmosX_API) | Java · Spring Boot | API REST para simulação de uma agência espacial com endpoints funcionais e deploy publicado. |
+| [**TaskForce API**](https://github.com/GoomezCode/TaskForce_api) | Python · FastAPI | API RESTful para gestão de tarefas com foco em organização, produtividade e organização pessoal. |
+| [**TaskForce Desktop**](https://github.com/GoomezCode/TaskForce_tkinter) | Python · Tkinter | Aplicação desktop para controle de tarefas com interface prática e uso direto. |
+| [**OrbySOS API**](https://github.com/GoomezCode/OrbySos_api) | Python · FastAPI · MySQL | API para gestão de seguros veiculares, ocorrências e assistências com persistência em banco. |
 | [**StockEasy**](https://github.com/GoomezCode/StockEasy) | JavaScript | Sistema de gestão de estoque para pequenos comércios, desenvolvido como projeto final de curso. |
 
 ---
