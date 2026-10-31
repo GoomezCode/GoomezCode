@@ -15,11 +15,11 @@ Quando não estou focado nos estudos de tecnologia, dedico minha energia ao espo
 
 | Projeto | Stack | Descrição |
 |:---:|:---:|:---|
-| [**CosmosX_API**](https://github.com/GoomezCode/CosmosX_API) | Java · Spring Boot | API REST de simulação de uma agência espacial — [deploy](https://cosmosx-api.onrender.com) |
-| [**TaskForce API**](https://github.com/GoomezCode/TaskForce_api) | Python · FastAPI | API RESTful de gerenciamento de tarefas (to-do list) — [deploy](https://taskforce-api-zxag.onrender.com) |
-| [**TaskForce Desktop**](https://github.com/GoomezCode/TaskForce_tkinter) | Python · tkinter | Versão desktop do gerenciador de tarefas |
-| [**OrbySOS API**](https://github.com/GoomezCode/OrbySos_api) | Python · FastAPI · MySQL | API REST para gestão de seguros veiculares, ocorrências e assistências |
-| [**StockEasy**](https://github.com/GoomezCode/StockEasy) | JavaScript | Sistema de gestão de estoque para pequenos comércios (projeto final Senac) |
+| [**CosmosX_API**](https://github.com/GoomezCode/CosmosX_API) | Java · Spring Boot | API REST de simulação de uma agência espacial com endpoints funcionais e deploy publicado. |
+| [**TaskForce API**](https://github.com/GoomezCode/TaskForce_api) | Python · FastAPI | API RESTful para gestão de tarefas, com foco em produtividade, organização e uso prático do dia a dia. |
+| [**TaskForce Desktop**](https://github.com/GoomezCode/TaskForce_tkinter) | Python · tkinter | Versão desktop do gerenciador de tarefas, com interface simples e funcional para uso direto. |
+| [**OrbySOS API**](https://github.com/GoomezCode/OrbySos_api) | Python · FastAPI · MySQL | API para gestão de seguros veiculares, ocorrências e assistências, com persistência em banco de dados. |
+| [**StockEasy**](https://github.com/GoomezCode/StockEasy) | JavaScript | Sistema de gestão de estoque para pequenos comércios, desenvolvido como projeto final de curso. |
 
 ---
 
